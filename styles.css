@@ -23,18 +23,6 @@ body {
   margin: 1.5rem 0;
   color: #08c;
 }
-/* .button {
-  border: none;
-  outline: none;
-  display: inline-block;
-  padding: .5rem;
-  color: rgb(0, 0, 0);
-  background-color: rgb(200, 198, 198);
-  text-align: center;
-  cursor: pointer;
-  margin-top: 5rem;
-}
-
 .button:hover {
   background-color: aqua;
 } */
@@ -67,8 +55,6 @@ nav a {
   color: rgb(44, 44, 44);
 }
 /* hero section */
-/* General and Mobile styling */
-
 body,
 html {
   height: 100%;
