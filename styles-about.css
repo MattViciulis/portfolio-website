@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+*#logo {
+  width: 15%;
+  margin-bottom: 0rem;
+}
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif margin 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 10rem;
+  padding: 2 px;
+}
+
+/*  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 8px;
+  } */
+
+.about-section h1 {
+  padding: 3rem 0;
+  text-align: center;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  font-size: 2rem;
+  text-align: center;
+}
+
+.about-section {
+  padding: 2.5rem;
+  text-align: center;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 0rem;
+}
+
+.container {
+  padding: 2rem 0;
+}
+*/ .container::after,
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.button-outline {
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  font-size: 0.8rem;
+  text-decoration: none;
+  background: rgb(255, 255, 255);
+  border: 1px solid rgb(146, 146, 146);
+  padding: 0.3rem 0.4rem;
+  display: inline-flex;
+  margin: 1.5rem 0;
+  color: #08c;
+}
+
+/*   .button {
+    border: none;
+    outline: none;
+    display: inline-block;
+    padding: .8rem;
+    color: rgb(0, 0, 0);
+    background-color: rgb(200, 198, 198);
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .button:hover {
+    background-color: aqua;
+  } */
+
+/*  .title {
+    color: grey;
+  }
+
+  /* photo gallery */
+
+/*  // BASIC */
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  height: 40vh;
+  flex-grow: 1;
+}
+
+li:last-child {
+  /*  // There's no science in using "10" here. In all my testing, this delivered the best results. */
+  flex-grow: 10;
+}
+
+#gallery {
+  max-height: 100%;
+  min-width: 100%;
+  object-fit: cover;
+  vertical-align: bottom;
+}
+
+/* // ADVANCED
+
+// Portrait */
+
+@media (max-aspect-ratio: 1/1) {
+  li {
+    height: 30vh;
+  }
+}
+
+/* // Short screens */
+
+@media (max-height: 480px) {
+  li {
+    height: 80vh;
+  }
+}
+
+/* // Smaller screens in portrait */
+
+@media (max-aspect-ratio: 1/1) and (max-width: 480px) {
+  ul {
+    flex-direction: row;
+  }
+
+  li {
+    height: auto;
+    width: 100%;
+  }
+  img {
+    width: 100%;
+    max-height: 75vh;
+    min-width: 0;
+  }
+}
