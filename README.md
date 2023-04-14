@@ -22,9 +22,12 @@
 
 
 ## **Wireframes**
-<img src="./docs/TabletMockupWireframe.pdf)" width="400" alt="mobile wireframe">
-<img src="./docs/TabletMockupWireframe.pdf)" width="400" alt="Tablet and smaller screens wireframe">
-<img src="./docs/DesktopMockupWireframe.pdf)" width="400" alt="Desktop and larger screens wireframe"> 
+<!-- <img src="./docs/TabletMockupWireframe.pdf)" width="400" alt="mobile wireframe"> -->
+![Mobile Wireframe and Sitemap](./docs/TabletMockupWireframe.pdf)
+<!-- <img src="./docs/TabletMockupWireframe.pdf)" width="400" alt="Tablet and smaller screens wireframe"> -->
+![Tablet and Smaller Screen Wireframe and Sitemap](./docs/TabletMockupWireframe.pdf)
+<!-- <img src="./docs/DesktopMockupWireframe.pdf)" width="400" alt="Desktop and larger screens wireframe"> -->
+![Desktop Wireframe and Sitemap](./docs/DesktopMockupWireframe.pdf) 
 
 ## **Wireframes**
 
