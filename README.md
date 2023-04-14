@@ -23,9 +23,14 @@
 
 ## **Wireframes**
 
+### Mobile Devices
+
 ![Mobile Wireframe and Sitemap](./docs/PhoneMockupWireframe.jpg)
 
+### Tablets and Smaller Screens
 ![Tablet and Smaller Screen Wireframe and Sitemap](./docs/TabletMockupWireframe.jpg)
+
+### Desktops and Larger Screens
 
 ![Desktop Wireframe and Sitemap](./docs/DesktopMockupWireframe.jpg)
 ## **Wireframes**
