@@ -20,7 +20,7 @@ html {
   -moz-font-feature-settings: "Roboto";
 }
  */
-.about-section h1 {
+/* .about-section h1 {
   padding: 2rem 0;
   text-align: center;
   background-color: #ffffff;
@@ -35,7 +35,7 @@ html {
   color: rgb(0, 0, 0);
   font-size: 1rem;
   margin-bottom: 0rem;
-}
+} */
 
 img {
   height: auto;
