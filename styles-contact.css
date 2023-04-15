@@ -8,15 +8,15 @@
   .contact_us_green .responsive-container-block {
     min-height: 70px;
     height: fit-content;
-    width: 80%;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
-    margin-top: 0px;
+  /*   margin-top: 2rem; */
     margin-right: auto;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     margin-left: auto;
-    background-color: rgb(232, 232, 232);
+    background-color: rgb(255, 255, 255);
     
   }
   
@@ -46,7 +46,7 @@
   
   .contact_us_green .responsive-container-block.container {
     max-width: 1320px;
-    margin-top: 60px;
+    margin-top: 3rem;
     margin-right: auto;
     margin-bottom: 60px;
     margin-left: auto;
@@ -54,9 +54,9 @@
   
   .contact_us_green .responsive-container-block.big-container {
     padding-top: 0px;
-    padding-right: 50px;
+    padding-right: 25px;
     padding-bottom: 0px;
-    padding-left: 50px;
+    padding-left: 25px;
   }
   
   .contact_us_green .text-blk.contactus-head {
@@ -79,16 +79,16 @@
     margin-left: 0px;
   }
   
-  .contact_us_green .contact-svg {
+/*   .contact_us_green .contact-svg {
     padding-top: 0px;
     padding-right: 25px;
     padding-bottom: 0px;
     padding-left: 0px;
     width: 65px;
     height: 40px;
-  }
+  } */
   
-  .contact_us_green .social-media-links {
+/*   .contact_us_green .social-media-links {
     margin-top: 80px;
     margin-right: auto;
     margin-bottom: 0px;
@@ -96,12 +96,12 @@
     width: 250px;
     display: flex;
     justify-content: space-evenly;
-  }
+  } */
   
-  .contact_us_green .social-svg {
+/*   .contact_us_green .social-svg {
     width: 35px;
     height: 35px;
-  }
+  } */
   
   .contact_us_green .text-box {
     display: flex;
@@ -112,7 +112,7 @@
   }
   
   .contact_us_green .contact-text {
-    color: #3e3e3e;
+    color: #08c;
   }
   
   .contact_us_green .input {
@@ -178,8 +178,8 @@
   }
   
   .contact_us_green .submit-btn {
-    min-width: 290px;
-    height: 60px;
+    min-width: 150px;
+    height: 50px;
     background-color: rgb(200, 198, 198);
     font-size: 18px;
     font-weight: 700;
