@@ -44,8 +44,9 @@
 
 ![Tablet Screenshots](![tablet screenshots](docs/Screenshots/Screenshot-tablet-compiled.jpg))
 
+### Tablet Layout Screenshots###
 
-   
+![Desktop Layout Screenshots](![Alt text](docs/Screenshots/Screenshot-desktop-compiled.jpg))
 
 
 ## **Target audience**
