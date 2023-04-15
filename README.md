@@ -38,15 +38,15 @@
 
 ### Phone Layout Screenshots
 
-(docs/Screenshots/Screenshot-phone-compiled.jpg)
+![Phone layout screenshots](./docs/Screenshots/Screenshot-phone-compiled.jpg)
 
 ### Tablet Layout Screenshots
 
-(docs/Screenshots/Screenshot-tablet-compiled.jpg)
+![Tablet layout screenshots](./docs/Screenshots/Screenshot-tablet-compiled.jpg)
 
 ### Tablet Layout Screenshots
 
-(docs/Screenshots/Screenshot-desktop-compiled.jpg)
+![Desktop layout screenshots](./docs/Screenshots/Screenshot-desktop-compiled.jpg)
 
 
 ## **Target audience**
