@@ -36,12 +36,14 @@
 
 ## **Screenshots of completed site**
 
-### Phone Layout Screenshots##
+### Phone Layout Screenshots###
 
-![Phone Screenshots](![Alt text](docs/Screenshots/Screenshot-phone-compiled.jpg))
+![Phone Screenshots](![phone screenshots](docs/Screenshots/Screenshot-phone-compiled.jpg))
 
+### Tablet Layout Screenshots###
 
-### Landing page / Home page
+![Tablet Screenshots](![tablet screenshots](docs/Screenshots/Screenshot-tablet-compiled.jpg))
+
 
    
 
