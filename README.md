@@ -10,9 +10,9 @@
 - [Slide Deck Presentation link]
 
 ## **Purpose**
-*This website has been created for the purpose of showcasing my skills to prospective employers.
-*To leave a positive impression regarding my work and who I am.
-*A space for me to tell the world about who I am and what I do.
+* This website has been created for the purpose of showcasing my skills to prospective employers.
+* To leave a positive impression regarding my work and who I am.
+* A space for me to tell the world about who I am and what I do.
 
 
 
@@ -63,6 +63,7 @@ I started wire framing out my ideas where I fleshed out the final layout.
 ### Desktops and Larger Screens
 
 ![Desktop](Images/DesktopMockupWireframe.jpg)
+* Note only 4 blog posts are shown but there are actually 5 live posts
 
 ## **Screenshots of completed site**
 
@@ -77,6 +78,7 @@ I started wire framing out my ideas where I fleshed out the final layout.
 ### Desktop Layout Screenshots
 
 ![Desktop](Images/Screenshot-desktop-compiled.jpg)
+* Note only 4 blog posts are shown but there are actually 5 live posts
 
 
 ## **Tech Stack**
