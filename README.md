@@ -38,7 +38,7 @@
 
 ### Phone Layout Screenshots##
 
-![Phone Screenshots](./docs/DesktopMockupWireframe.jpg)
+![Phone Screenshots](![Alt text](docs/Screenshots/Screenshot-phone-compiled.jpg))
 
 
 ### Landing page / Home page
