@@ -33,7 +33,13 @@
 ### Desktops and Larger Screens
 
 ![Desktop Wireframe and Sitemap](./docs/DesktopMockupWireframe.jpg)
-## **Wireframes**
+
+## **Screenshots of completed site**
+
+### Phone Layout Screenshots##
+
+![Phone Screenshots](./docs/DesktopMockupWireframe.jpg)
+
 
 ### Landing page / Home page
 
