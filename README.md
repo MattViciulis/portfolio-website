@@ -46,35 +46,35 @@ I started off with a moodboard to determine what the feel of my site would be li
 
 I gathered images and content that will be needed once decision on layout was made and started wire framing my ideas where I fleshed out the final layout.
 
-![Website concept planning Moodboard](./docs/PortfolioWebsiteMoodboard.jpg)
+![Website concept planning Moodboard](./PortfolioWebsiteMoodboard.jpg)
 After I researched layout and aesthetic options I started to gather images and content that will be needed once the final decision on layout was made.
 I started wire framing out my ideas where I fleshed out the final layout.
 ## **Wireframes**
 
 ### Mobile Devices
 
-![Mobile Wireframe and Sitemap](./docs/PhoneMockupWireframe.jpg)
+![Mobile Wireframe and Sitemap](./PhoneMockupWireframe.jpg)
 
 ### Tablets and Smaller Screens
-![Tablet and Smaller Screen Wireframe and Sitemap](./docs/TabletMockupWireframe.jpg)
+![Tablet and Smaller Screen Wireframe and Sitemap](./TabletMockupWireframe.jpg)
 
 ### Desktops and Larger Screens
 
-![Desktop Wireframe and Sitemap](./docs/DesktopMockupWireframe.jpg)
+![Desktop Wireframe and Sitemap](./DesktopMockupWireframe.jpg)
 
 ## **Screenshots of completed site**
 
 ### Phone Layout Screenshots
 
-![Phone layout screenshots](./docs/Screenshots/Screenshot-phone-compiled.jpg)
+![Phone layout screenshots](./Screenshot-phone-compiled.jpg)
 
 ### Tablet Layout Screenshots
 
-![Tablet layout screenshots](./docs/Screenshots/Screenshot-tablet-compiled.jpg)
+![Tablet layout screenshots](./Screenshot-tablet-compiled.jpg)
 
 ### Tablet Layout Screenshots
 
-![Desktop layout screenshots](./docs/Screenshots/Screenshot-desktop-compiled.jpg)
+![Desktop layout screenshots](./Screenshot-desktop-compiled.jpg)
 
 
 ## **Tech Stack**
