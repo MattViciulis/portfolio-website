@@ -36,17 +36,17 @@
 
 ## **Screenshots of completed site**
 
-### Phone Layout Screenshots###
+### Phone Layout Screenshots
 
-![Phone Screenshots](![phone screenshots](docs/Screenshots/Screenshot-phone-compiled.jpg))
+(docs/Screenshots/Screenshot-phone-compiled.jpg)
 
-### Tablet Layout Screenshots###
+### Tablet Layout Screenshots
 
-![Tablet Screenshots](![tablet screenshots](docs/Screenshots/Screenshot-tablet-compiled.jpg))
+(docs/Screenshots/Screenshot-tablet-compiled.jpg)
 
-### Tablet Layout Screenshots###
+### Tablet Layout Screenshots
 
-![Desktop Layout Screenshots](![Alt text](docs/Screenshots/Screenshot-desktop-compiled.jpg))
+(docs/Screenshots/Screenshot-desktop-compiled.jpg)
 
 
 ## **Target audience**
