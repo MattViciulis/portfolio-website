@@ -74,7 +74,7 @@ I started wire framing out my ideas where I fleshed out the final layout.
 
 ![Tablets and Smaller Screens](Images/Screenshot-tablet-compiled.jpg)
 
-### Tablet Layout Screenshots
+### Desktop Layout Screenshots
 
 ![Desktop](Images/Screenshot-desktop-compiled.jpg)
 

@@ -9,34 +9,20 @@ html {
 }
 body {
   color: #999999;
-  /* font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-style: normal; */
   font-weight: 400;
   letter-spacing: 0;
-  /* padding: 2rem; */
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -moz-font-feature-settings: "liga";
 }
-
-/* .about-section h1 {
-  padding: 2rem 0;
-  text-align: center;
-  background-color: #ffffff;
-  color: rgb(0, 0, 0);
-  font-size: 1.5rem;
-  text-align: center;
-}
-
-.about-section {
+.about-section{
   padding: 1rem;
-  /* text-align: center; */
-  background-color: #ffffff;
-  color: rgb(0, 0, 0);
-  font-size: 1rem;
-  margin-bottom: 0rem;
-} */
+background-color: #ffffff;
+color: rgb(0, 0, 0);
+font-size: 1rem;
+margin-bottom: 4rem;
+} 
 img {
   height: auto;
   max-width: 100%;
@@ -132,7 +118,6 @@ img {
   line-height: 1.5;
   margin-bottom: 1.25rem;
 }
-
 .button-outline {
   font-family: Roboto, Arial, Helvetica, sans-serif;
   font-size: 0.8rem;

@@ -1,19 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
-/* header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 1rem 0 2rem;
-  background-color: rgb(157, 42, 42);
-} */
-
 body {
   font-family: Roboto;
   line-height: 1.4;
   font-size: 17px;
   padding: 2rem;
-
 }
 img {
   max-width: 100%;
@@ -26,14 +17,13 @@ a {
   text-decoration: none;
 }
 .hentry {
-  max-width: 40em;
+  max-width: 50em;
   margin: auto;
 }
 .entry-title {
   grid-area: header;
-
   text-transform: uppercase;
-  margin: 2rem 0;
+  margin: 1rem 0;
   line-height: 2;
 }
 .featured-image {
@@ -49,7 +39,7 @@ a {
 .entry-footer {
   grid-area: footer;
   text-align: right;
-  border-top: 1px solid #ffffff;
+  border-top: 4px solid #ffffff;
   margin-top: 1em;
 }
 .author .date {
@@ -63,7 +53,6 @@ a {
   font-weight: bold;
   text-decoration: none;
 }
-
 @media (min-width: 40em) {
   .hentry {
     display: grid;
@@ -72,7 +61,7 @@ a {
     grid-template-areas: "header header header header" "meta meta meta meta" "featimg featimg featimg featimg" "content content content content" "footer footer footer footer";
   }
   .entry-title {
-    font-size: 2.5em;
+    font-size: 2em;
     margin-bottom: 0;
   }
 }
@@ -99,7 +88,6 @@ a {
 .PrevNext a,
 .PrevNext a:visited {
   background-color: rgb(219, 219, 219);
-  /* box-shadow: 1px 1px #7b7b7b; */
   border-radius: 5px;
   color: #000000;
   padding: 2px;

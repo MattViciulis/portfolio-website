@@ -7,42 +7,18 @@
 html {
   background-color: #ffffff;
 }
-/* body {
-  color: #ffffff;
-  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-style:;
-  font-weight: 100;
-  letter-spacing: 1px;
-  padding: 1.5rem;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -moz-font-feature-settings: "Roboto";
-}
- */
-/* .about-section h1 {
-  padding: 2rem 0;
-  text-align: center;
-  background-color: #ffffff;
-  color: rgb(0, 0, 0);
-  font-size: 1.5rem;
-}
-
-.about-section {
-  padding: 1rem;
-  /* text-align: center; */
+  .about-section{
+    padding: 1rem;
   background-color: #ffffff;
   color: rgb(0, 0, 0);
   font-size: 1rem;
-  margin-bottom: 0rem;
-} */
-
+  margin-bottom: 2rem;
+} 
 img {
   height: auto;
   max-width: 100%;
   vertical-align: middle;
 }
-
 .cards {
   display: flex;
   flex-wrap: wrap;
@@ -54,7 +30,6 @@ img {
   display: flex;
   padding: 1rem;
 }
-
 
 @media (min-width: 40rem) {
   .cards__item {
@@ -136,4 +111,4 @@ img {
   margin-bottom: 1.25rem;
   color: #000000;
 }
-/* client logo list */
+

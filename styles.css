@@ -5,14 +5,11 @@
   margin: 0;
   padding: 0;
 }
-
 body {
   display: flex;
   flex-direction: column;
   background-color: rgba(255, 255, 255, 0.256);
- 
 }
-
 .button-outline {
   font-family: Roboto, Arial, Helvetica, sans-serif;
   font-size: 0.8rem;
@@ -26,10 +23,9 @@ body {
 }
 .button:hover {
   background-color: aqua;
-} */
+} 
 
 /* header */
-
 header {
   display: flex;
   flex-direction: row;
@@ -37,37 +33,27 @@ header {
   padding: 0rem 0 0rem;
   background-color: white;
 }
-
 #brand {
-  width: 25%;
-
-  
-  
+  width: 25%; 
 }
-
 nav {
   display: flex;
   justify-content: space-around;
   width: 100%;
 }
-
 nav a {
   font-family: Roboto, Arial, Helvetica, sans-serif;
   text-decoration: none;
   font-size: 0.7rem;
   color: rgb(44, 44, 44);
 }
-
 .about-section h1 {
   padding: 2rem 0;
   text-align: center;
   background-color: #ffffff;
   color: rgb(0, 0, 0);
   font-size: 1.5rem;
-
- 
 }
-
 .about-section {
   padding: 1rem;
   text-align: left;
@@ -75,9 +61,9 @@ nav a {
   color: rgb(0, 0, 0);
   font-size: 1rem;
   margin-bottom: 0rem;
-  width: 100%;
-
+  width: 100%
 }
+
 /* hero section */
 body,
 html {
@@ -85,7 +71,6 @@ html {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
-
 .hero-image {
   display: flex;
   flex-direction: column;
@@ -100,12 +85,10 @@ html {
   align-items: center;
   justify-content: center;
 }
-
 .hero-text {
   text-align: center;
   color: white;
 }
-
 .hero-header {
   align-self: center;
   font-size: 2rem;
@@ -122,25 +105,21 @@ html {
     align-items: center;
     background-color: white;
   }
-
   #brand {
     width: 18%;
     margin-bottom: 0rem;
   }
-
   nav {
     display: flex;
     justify-content: space-around;
     width: 100%;
   }
-
   nav a {
     font-family: Roboto, Arial, Helvetica, sans-serif;
     text-decoration: none;
     font-size: 0.8rem;
     color: rgb(44, 44, 44);
   }
-
   .hero-header {
     align-self: center;
     font-size: 3rem;
@@ -151,24 +130,31 @@ html {
     text-align: center;
     background-color: #ffffff;
     color: rgb(0, 0, 0);
-    font-size: 1.5rem;
-  
-   
+    font-size: 1.5rem;  
   }
-  
   .about-section {
-    padding: 6rem;
-    text-align: left;
+    padding: 2rem;
     background-color: #ffffff;
     color: rgb(0, 0, 0);
     font-size: 1rem;
-    margin-bottom: 0rem;
-    width: 100%;
-  
-  }
+    margin-bottom: 1rem;
+    margin: auto;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    width: 80%;
+} 
+  .about-section {
+    padding: 2rem;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    margin: auto;
+    padding-left: 10rem;
+    padding-right: 10rem;
 }
-
-@media only screen and (min-width: 750px) {
+}
+@media only screen and (min-width: 750px){
   header {
     display: flex;
     flex-direction: column;
@@ -176,31 +162,25 @@ html {
     padding: 0.5rem 0 2rem;
     background-color: white;
   }
-  
-
   #brand {
     width: 20%;
     margin-bottom: 0rem;
   }
-
   nav {
     display: flex;
     justify-content: space-around;
     width: 100%;
   }
-
   nav a {
     font-family: Roboto, Arial, Helvetica, sans-serif;
     text-decoration: none;
     font-size: 0.9rem;
     color: rgb(44, 44, 44);
   }
-
   .hero-header {
     align-self: center;
     font-size: 3rem;
     display: inline-flex;
-
   }
   .about-section h1 {
     padding: 2rem 0;
@@ -208,49 +188,39 @@ html {
     background-color: #ffffff;
     color: rgb(0, 0, 0);
     font-size: 1.5rem;
-  
-   
   }
-  
   .about-section {
-    padding: 8rem;
-    text-align: left;
+    padding: 2rem;
     background-color: #ffffff;
     color: rgb(0, 0, 0);
     font-size: 1rem;
-    margin-bottom: 0rem;
-    width: 100%;
-  
-  }
+    margin-bottom: 1rem;
+    width: 80%;  
 }
- */
+}
+ 
 @media only screen and (min-width: 600px) {
   header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* padding: 0.5rem 0 2rem; */
     background-color: white;
   }
-
   #brand {
     width: 15%;
     margin-bottom: 0rem;
   }
-
   nav {
     display: flex;
     justify-content: space-around;
     width: 100%;
   }
-
   nav a {
     font-family: Roboto, Arial, Helvetica, sans-serif;
     text-decoration: none;
     font-size: 0.9rem;
     color: rgb(44, 44, 44);
   }
-
   .hero-header {
     align-self: center;
     font-size: 3rem;
@@ -262,11 +232,8 @@ html {
   text-align: center;
   background-color: #ffffff;
   color: rgb(0, 0, 0);
-  font-size: 1.5rem;
-
- 
+  font-size: 1.5rem; 
 }
-
 .about-section {
   padding: 2rem;
   text-align: left;
@@ -274,45 +241,36 @@ html {
   color: rgb(0, 0, 0);
   font-size: 1rem;
   margin-bottom: 0rem;
-  width: 100%;
-
+  width: 70%;
 }
 }
 
 /* desktop styling */
-
 @media only screen and (min-width: 950px) {
   header {
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
-   /*  padding: 0.5rem 0 2rem; */
     background-color: white;
   }
-
   #brand {
     width: 15%;
     margin-bottom: 0rem;
   }
-
   nav {
     display: flex;
     justify-content: space-around;
     width: 100%;
   }
-
   nav a {
     font-family: Roboto, Arial, Helvetica, sans-serif;
     text-decoration: none;
     font-size: 0.9rem;
-    color: rgb(44, 44, 44);
+    color: rgb(44, 44, 44);  
   }
-
   .hero-header {
     align-self: center;
     font-size: rem;
     display: inline-flex;
-
   }
   .about-section h1 {
     padding: 2rem 0;
@@ -320,19 +278,17 @@ html {
     background-color: #ffffff;
     color: rgb(0, 0, 0);
     font-size: 1.5rem;
-  
-   
   }
-  
   .about-section {
     padding: 12rem;
     text-align: left;
     background-color: #ffffff;
     color: rgb(0, 0, 0);
     font-size: 1rem;
-    margin-bottom: 0rem;
-    width: 100%;
-  
+    margin-bottom: 1rem;
+   margin: auto;
+   padding-left: 20rem;
+   padding-right: 20rem;
   }
 }
 
@@ -429,12 +385,9 @@ April 2, 2023 by Asif Mughal
 
 footer {
   text-align: center;
-  padding: .5rem;
-  
+  padding: .5rem; 
 }
-
 footer p {
  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   padding: 1rem;
-
 }
